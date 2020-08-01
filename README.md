@@ -1,4 +1,8 @@
-### Hi there 👋
+
+### Hi, I am Dmitrii. 
+### I enjoy building tools for vfx pipeline and primarly specialize in Python and rigging.
+- 🌱 I’m currently learning: C++, Machhine learning, Shell scripting,
+- 📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/dmitriishevchenko/) | [Twitter](https://twitter.com/home)
 
 <!--
 **S0nic014/S0nic014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
