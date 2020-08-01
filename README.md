@@ -1,20 +1,21 @@
 
-### Hi, I am Dmitrii. 
+### Hi, I am Dmitrii!
 ### I enjoy building tools for vfx pipeline and primarly specialize in Python and rigging.
-- 🌱 I’m currently learning: C++, Machhine learning, Shell scripting,
-- 📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/dmitriishevchenko/) | [Twitter](https://twitter.com/home)
 
-<!--
-**S0nic014/S0nic014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently learning
+- C++
+- Machine learning
+- Shell scripting
 
-Here are some ideas to get you started:
+### :test_tube: Experience
+- Character/prop rigging in Maya
+- Unity C#
+- Unreal Engine 4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 Interested in
+- Blender plugin development
+- Applied ML for 3D animation
+
+### 📫 How to reach me: 
+- [LinkendIn](https://www.linkedin.com/in/dmitriishevchenko/)
+- [Twitter](https://twitter.com/home)
