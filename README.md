@@ -17,5 +17,5 @@
 - Applied ML for 3D animation
 
 ### 📫 How to reach me: 
-- [LinkendIn](https://www.linkedin.com/in/dmitriishevchenko/)
+- [LinkedIn](https://www.linkedin.com/in/dmitriishevchenko/)
 - [Twitter](https://twitter.com/home)
