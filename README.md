@@ -12,4 +12,4 @@
 
 ### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/dmitriishevchenko/)
-- [Twitter](https://twitter.com/home)
+- [Twitter](https://twitter.com/sowwic)
