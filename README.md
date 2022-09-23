@@ -8,3 +8,6 @@
 - C++
 - Machine learning
 - Game engines
+
+
+Legend says one day I'll finish all my personal projects 😮‍💨
