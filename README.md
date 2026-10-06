@@ -6,7 +6,6 @@
 - Rigging
 - Python
 - C++
-- Machine learning
 - Game engines
 
 
